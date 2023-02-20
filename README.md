@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 - 🔭 I’m currently working on a retail web app.
 - 🌱 I’m currently learning integrating AI technologies with backend.
 - 📫 How to reach me: isdas@ucsc.edu
