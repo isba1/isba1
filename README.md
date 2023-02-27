@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a retail web app.
-- 🌱 I’m currently learning integrating AI technologies with backend.
+- 🔭 I’m currently working on a multi-user XR framework
+- 🌱 I’m currently learning WebXR and realtime web APIs like WebSocket
 - 📫 How to reach me: isdas@ucsc.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play soccer for UC Santa Cruz. Go Slugs!
