@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a multi-user XR framework
-- 🌱 I’m currently learning WebXR and realtime web APIs like WebSocket
+- 🔭 I’m currently working as a software engineering intern at Visa
+- 🌱 I’m currently learning Docker and Kubernetes for application containerization and scaling
 - 📫 How to reach me: isdas@ucsc.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play soccer for UC Santa Cruz. Go Slugs!
