@@ -2,7 +2,7 @@
 - 🔭 I’m currently working as a software engineering at Visa
 - 📫 How to reach me: isdas@ucsc.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play soccer for UC Santa Cruz. Go Slugs!
+- ⚡ Fun fact: I played soccer for UC Santa Cruz. Go Slugs!
 <!--
 **isba1/isba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
